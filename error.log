@@ -1,0 +1,274 @@
+
+        +---------------+-------------------------+
+        错误名称：SyntaxError,
+
+        错误信息：Unexpected token 3 in JSON at position 0,
+
+        错误时间：Thu Mar 02 2023 14:45:37 GMT+0800 (中国标准时间),
+
+        错误堆栈：SyntaxError: Unexpected token 3 in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (D:\Users\86132\Desktop\mubanhu\node_modules\body-parser\lib\types\json.js:169:10)
+    at parse (D:\Users\86132\Desktop\mubanhu\node_modules\body-parser\lib\types\json.js:86:15)
+    at D:\Users\86132\Desktop\mubanhu\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\Users\86132\Desktop\mubanhu\node_modules\raw-body\index.js:238:16)
+    at done (D:\Users\86132\Desktop\mubanhu\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\Users\86132\Desktop\mubanhu\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12),
+
+        +---------------+-------------------------+
+    
+        +---------------+-------------------------+
+        错误名称：SyntaxError,
+
+        错误信息：Unexpected token 3 in JSON at position 0,
+
+        错误时间：Thu Mar 02 2023 14:46:37 GMT+0800 (中国标准时间),
+
+        错误堆栈：SyntaxError: Unexpected token 3 in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (D:\Users\86132\Desktop\mubanhu\node_modules\body-parser\lib\types\json.js:169:10)
+    at parse (D:\Users\86132\Desktop\mubanhu\node_modules\body-parser\lib\types\json.js:86:15)
+    at D:\Users\86132\Desktop\mubanhu\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\Users\86132\Desktop\mubanhu\node_modules\raw-body\index.js:238:16)
+    at done (D:\Users\86132\Desktop\mubanhu\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\Users\86132\Desktop\mubanhu\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12),
+
+        +---------------+-------------------------+
+    
+        +---------------+-------------------------+
+        错误名称：SyntaxError,
+
+        错误信息：Unexpected token 3 in JSON at position 0,
+
+        错误时间：Thu Mar 02 2023 14:47:15 GMT+0800 (中国标准时间),
+
+        错误堆栈：SyntaxError: Unexpected token 3 in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (D:\Users\86132\Desktop\mubanhu\node_modules\body-parser\lib\types\json.js:169:10)
+    at parse (D:\Users\86132\Desktop\mubanhu\node_modules\body-parser\lib\types\json.js:86:15)
+    at D:\Users\86132\Desktop\mubanhu\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\Users\86132\Desktop\mubanhu\node_modules\raw-body\index.js:238:16)
+    at done (D:\Users\86132\Desktop\mubanhu\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\Users\86132\Desktop\mubanhu\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12),
+
+        +---------------+-------------------------+
+    
+        +---------------+-------------------------+
+        错误名称：SyntaxError,
+
+        错误信息：Unexpected token 3 in JSON at position 0,
+
+        错误时间：Thu Mar 02 2023 14:48:22 GMT+0800 (中国标准时间),
+
+        错误堆栈：SyntaxError: Unexpected token 3 in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (D:\Users\86132\Desktop\mubanhu\node_modules\body-parser\lib\types\json.js:169:10)
+    at parse (D:\Users\86132\Desktop\mubanhu\node_modules\body-parser\lib\types\json.js:86:15)
+    at D:\Users\86132\Desktop\mubanhu\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\Users\86132\Desktop\mubanhu\node_modules\raw-body\index.js:238:16)
+    at done (D:\Users\86132\Desktop\mubanhu\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\Users\86132\Desktop\mubanhu\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12),
+
+        +---------------+-------------------------+
+    
+        +---------------+-------------------------+
+        错误名称：SyntaxError,
+
+        错误信息：Unexpected token 3 in JSON at position 0,
+
+        错误时间：Thu Mar 02 2023 14:49:51 GMT+0800 (中国标准时间),
+
+        错误堆栈：SyntaxError: Unexpected token 3 in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (D:\Users\86132\Desktop\mubanhu\node_modules\body-parser\lib\types\json.js:169:10)
+    at parse (D:\Users\86132\Desktop\mubanhu\node_modules\body-parser\lib\types\json.js:86:15)
+    at D:\Users\86132\Desktop\mubanhu\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\Users\86132\Desktop\mubanhu\node_modules\raw-body\index.js:238:16)
+    at done (D:\Users\86132\Desktop\mubanhu\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\Users\86132\Desktop\mubanhu\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12),
+
+        +---------------+-------------------------+
+    
+        +---------------+-------------------------+
+        错误名称：SyntaxError,
+
+        错误信息：Unexpected token 3 in JSON at position 0,
+
+        错误时间：Thu Mar 02 2023 14:53:29 GMT+0800 (中国标准时间),
+
+        错误堆栈：SyntaxError: Unexpected token 3 in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (D:\Users\86132\Desktop\mubanhu\node_modules\body-parser\lib\types\json.js:169:10)
+    at parse (D:\Users\86132\Desktop\mubanhu\node_modules\body-parser\lib\types\json.js:86:15)
+    at D:\Users\86132\Desktop\mubanhu\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\Users\86132\Desktop\mubanhu\node_modules\raw-body\index.js:238:16)
+    at done (D:\Users\86132\Desktop\mubanhu\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\Users\86132\Desktop\mubanhu\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12),
+
+        +---------------+-------------------------+
+    
+        +---------------+-------------------------+
+        错误名称：SyntaxError,
+
+        错误信息：Unexpected token 3 in JSON at position 0,
+
+        错误时间：Thu Mar 02 2023 14:55:06 GMT+0800 (中国标准时间),
+
+        错误堆栈：SyntaxError: Unexpected token 3 in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (D:\Users\86132\Desktop\mubanhu\node_modules\body-parser\lib\types\json.js:169:10)
+    at parse (D:\Users\86132\Desktop\mubanhu\node_modules\body-parser\lib\types\json.js:86:15)
+    at D:\Users\86132\Desktop\mubanhu\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\Users\86132\Desktop\mubanhu\node_modules\raw-body\index.js:238:16)
+    at done (D:\Users\86132\Desktop\mubanhu\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\Users\86132\Desktop\mubanhu\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12),
+
+        +---------------+-------------------------+
+    
+        +---------------+-------------------------+
+        错误名称：SyntaxError,
+
+        错误信息：Unexpected token 3 in JSON at position 0,
+
+        错误时间：Thu Mar 02 2023 14:56:04 GMT+0800 (中国标准时间),
+
+        错误堆栈：SyntaxError: Unexpected token 3 in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (D:\Users\86132\Desktop\mubanhu\node_modules\body-parser\lib\types\json.js:169:10)
+    at parse (D:\Users\86132\Desktop\mubanhu\node_modules\body-parser\lib\types\json.js:86:15)
+    at D:\Users\86132\Desktop\mubanhu\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\Users\86132\Desktop\mubanhu\node_modules\raw-body\index.js:238:16)
+    at done (D:\Users\86132\Desktop\mubanhu\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\Users\86132\Desktop\mubanhu\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12),
+
+        +---------------+-------------------------+
+    
+        +---------------+-------------------------+
+        错误名称：SyntaxError,
+
+        错误信息：Unexpected token 3 in JSON at position 0,
+
+        错误时间：Thu Mar 02 2023 15:06:24 GMT+0800 (中国标准时间),
+
+        错误堆栈：SyntaxError: Unexpected token 3 in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (D:\Users\86132\Desktop\mubanhu\node_modules\body-parser\lib\types\json.js:169:10)
+    at parse (D:\Users\86132\Desktop\mubanhu\node_modules\body-parser\lib\types\json.js:86:15)
+    at D:\Users\86132\Desktop\mubanhu\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\Users\86132\Desktop\mubanhu\node_modules\raw-body\index.js:238:16)
+    at done (D:\Users\86132\Desktop\mubanhu\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\Users\86132\Desktop\mubanhu\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12),
+
+        +---------------+-------------------------+
+    
+        +---------------+-------------------------+
+        错误名称：SyntaxError,
+
+        错误信息：Unexpected token 3 in JSON at position 0,
+
+        错误时间：Thu Mar 02 2023 15:08:27 GMT+0800 (中国标准时间),
+
+        错误堆栈：SyntaxError: Unexpected token 3 in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (D:\Users\86132\Desktop\mubanhu\node_modules\body-parser\lib\types\json.js:169:10)
+    at parse (D:\Users\86132\Desktop\mubanhu\node_modules\body-parser\lib\types\json.js:86:15)
+    at D:\Users\86132\Desktop\mubanhu\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (D:\Users\86132\Desktop\mubanhu\node_modules\raw-body\index.js:238:16)
+    at done (D:\Users\86132\Desktop\mubanhu\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\Users\86132\Desktop\mubanhu\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1358:12),
+
+        +---------------+-------------------------+
+    
+        +---------------+-------------------------+
+        错误名称：ReferenceError,
+
+        错误信息：ress is not defined,
+
+        错误时间：Thu Mar 02 2023 15:11:15 GMT+0800 (中国标准时间),
+
+        错误堆栈：ReferenceError: ress is not defined
+    at D:\Users\86132\Desktop\mubanhu\router\myUser.js:112:6
+    at Layer.handle [as handle_request] (D:\Users\86132\Desktop\mubanhu\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Users\86132\Desktop\mubanhu\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Users\86132\Desktop\mubanhu\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\Users\86132\Desktop\mubanhu\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Users\86132\Desktop\mubanhu\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\Users\86132\Desktop\mubanhu\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Users\86132\Desktop\mubanhu\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\Users\86132\Desktop\mubanhu\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\Users\86132\Desktop\mubanhu\node_modules\express\lib\router\index.js:47:12),
+
+        +---------------+-------------------------+
+    
+        +---------------+-------------------------+
+        错误名称：ReferenceError,
+
+        错误信息：ress is not defined,
+
+        错误时间：Thu Mar 02 2023 15:11:32 GMT+0800 (中国标准时间),
+
+        错误堆栈：ReferenceError: ress is not defined
+    at D:\Users\86132\Desktop\mubanhu\router\myUser.js:112:6
+    at Layer.handle [as handle_request] (D:\Users\86132\Desktop\mubanhu\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Users\86132\Desktop\mubanhu\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Users\86132\Desktop\mubanhu\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\Users\86132\Desktop\mubanhu\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Users\86132\Desktop\mubanhu\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\Users\86132\Desktop\mubanhu\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Users\86132\Desktop\mubanhu\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\Users\86132\Desktop\mubanhu\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\Users\86132\Desktop\mubanhu\node_modules\express\lib\router\index.js:47:12),
+
+        +---------------+-------------------------+
+    
+        +---------------+-------------------------+
+        错误名称：ReferenceError,
+
+        错误信息：ress is not defined,
+
+        错误时间：Thu Mar 02 2023 15:12:50 GMT+0800 (中国标准时间),
+
+        错误堆栈：ReferenceError: ress is not defined
+    at D:\Users\86132\Desktop\mubanhu\router\myUser.js:110:12
+    at Layer.handle [as handle_request] (D:\Users\86132\Desktop\mubanhu\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Users\86132\Desktop\mubanhu\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Users\86132\Desktop\mubanhu\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\Users\86132\Desktop\mubanhu\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Users\86132\Desktop\mubanhu\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\Users\86132\Desktop\mubanhu\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Users\86132\Desktop\mubanhu\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\Users\86132\Desktop\mubanhu\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\Users\86132\Desktop\mubanhu\node_modules\express\lib\router\index.js:47:12),
+
+        +---------------+-------------------------+
+    
